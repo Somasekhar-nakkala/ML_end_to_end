@@ -6,3 +6,5 @@ Step 4: Build the models and predict the results.
 Step 5: Communicate the results of the analysis with business stakeholders(Client).
 Step 6: Deployment(CI/CD: Continuous Integration and Continuous Deployment)
 Step 7: Retrain the model.
+
+Every time when there is some updates in the unseen data or you get some more new features or some new information or if you feel that there is still scope for improvement of your model and thus the predictions, you can retrain your model.
