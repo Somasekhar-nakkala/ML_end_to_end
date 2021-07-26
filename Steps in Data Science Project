@@ -1,0 +1,8 @@
+Steps in Data Science Project are as follows
+Step 1: Define the Problem
+Step 2: Collect the raw data needed for the business problem.
+Step 3: Cleaning the data, Exploratory data analysis, Feature Engineering and Feature Selection.
+Step 4: Build the models and predict the results.
+Step 5: Communicate the results of the analysis with business stakeholders(Client).
+Step 6: Deployment(CI/CD: Continuous Integration and Continuous Deployment)
+Step 7: Retrain the model.
